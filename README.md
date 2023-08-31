@@ -8,6 +8,7 @@ This is a simple web application that allows users to generate tips based on the
 
 - [Demo](#demo)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [How it Works](#how-it-works)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -23,6 +24,16 @@ Check out the live demo of the Tip Generator application [here](https://22pankaj
 
 - Generate tips based on bill amount, service quality, and number of people sharing the bill.
 - Display the calculated tip amount.
+
+  ## Screenshots
+
+Include relevant screenshots of the application here.
+
+![image](https://github.com/22pankajsahu/m6Day11HomeWorkChallenge/assets/135128502/5589b7a8-54b1-4c2f-ae26-38c66e1d73b0)
+
+![image](https://github.com/22pankajsahu/m6Day11HomeWorkChallenge/assets/135128502/70a59055-a157-4ded-a1ea-df36f3dfd04a)
+
+
 
 ## How it Works
 
